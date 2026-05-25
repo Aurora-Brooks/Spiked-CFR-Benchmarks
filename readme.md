@@ -175,4 +175,4 @@ This license applies only to the processed benchmark files released in this repo
 
 These benchmarks are semi-synthetic and are intended for research evaluation. They should not be interpreted as real clinical evidence or used for medical decision-making.
 
-The generated text is produced by GPT-4o-mini from structured records and may reflect artifacts of the prompting process. Researchers should consider this when interpreting results obtained on these benchmarks.
+The generated text is produced by GPT-4o-mini from structured records and may reflect artifacts of the prompting process. Researchers should consider this when interpreting results obtained on these benchmarks. 
